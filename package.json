@@ -1,0 +1,17 @@
+{
+  "name": "nodetodoapp",
+  "version": "1.0.0",
+  "description": "a litte todo app",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
+  }
+}
